@@ -1,0 +1,4 @@
+
+I recently worked on the Design & Deployment of an AWS-Native Medallion Data Lakehouse, where I handled 48TB+ data and 5B+ records while ensuring cost optimization, reproducible CDC, and strong governance. This blog covers the full journey—from challenges in the old pipeline to the redesigned AWS-native Medallion architecture (Bronze/Silver/Gold) powered by S3, Glue, Athena, and EMR.
+
+👉 Dive into the detailed walkthrough here: Read the Full Project Blog : https://aws-dms-s3-medallion.hashnode.dev/data-engineering-with-aws-medallion
